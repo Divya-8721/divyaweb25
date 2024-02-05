@@ -1,0 +1,30 @@
+.main{
+    height: 75px;
+   background-color: darkmagenta;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.logo , .menu{
+    height: 75px;
+    width: 300px;
+    
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bolder;
+    width: 400px;
+    color: white;
+}
+.logo{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+img{
+    height: 70px;
+    width: 70px;
+}
